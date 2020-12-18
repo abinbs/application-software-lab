@@ -17,7 +17,7 @@ VALUES
 ("a12cp", "Cyberpunk 2077", 10, 4000, 0, 4200);
 
 
-#cSELECT * FROM store; 
+SELECT * FROM store; 
 
 
 SELECT MOD(price,9) FROM store;
